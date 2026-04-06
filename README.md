@@ -124,7 +124,7 @@ npm start
 
 ## 👥 Equipe
 
-**Integrantes**: 
+**Integrantes**: Anna Castellini, Gabriel Auler Garcia, Gabrielli Marques Battini e Miguel Augusto Evelin Freire Rodrigues
 
 --- 
 
