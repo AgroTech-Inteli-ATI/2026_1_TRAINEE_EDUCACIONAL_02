@@ -7,10 +7,10 @@ const config = {
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
-  url: 'https://inteliprojects.github.io', // Atualize conforme sua organização
+  url: 'https://AgroTech-Inteli-ATI.github.io', // Atualize conforme sua organização
   baseUrl: '/2026_1_TRAINEE_EDUCACIONAL_02/',
 
-  organizationName: 'InteliProjects', // Atualize conforme sua organização
+  organizationName: 'AgroTech-Inteli-ATI', // Atualize conforme sua organização
   projectName: '2026_1_TRAINEE_EDUCACIONAL_02',
 
   onBrokenLinks: 'throw',
