@@ -1,4 +1,4 @@
----
+p---
 sidebar_position: 1
 slug: /analise-mercado/contexto-setorial
 description: "Análise de contexto e características do setor"
